@@ -1,4 +1,4 @@
-# Dividend vs Non-Dividend Stocks: S&P 500 Backtest
+# Dividend Payers vs Non-Payers: S&P 500 Return and Risk Backtest
 
 A Python backtest that splits the S&P 500 into dividend payers and non-payers, builds an equal-weight portfolio of each, and compares their return, risk, and drawdown from January 2018 to September 2025. Prices come from Yahoo Finance.
 
@@ -35,7 +35,7 @@ The maximum drawdowns are close. The non-payers took more risk, and the Sharpe r
 
 ## Files
 
-- `Dividend_vs_Non_Dividend_SP500_Backtest.ipynb`: the full notebook, with code and outputs
+- `Dividend_Payers_vs_Non_Payers_SP500_Backtest.ipynb`: the full notebook, with code and outputs
 
 ## Running it
 
